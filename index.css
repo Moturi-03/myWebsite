@@ -1,0 +1,212 @@
+ *{
+  text-decoration: none;
+ }
+.firstBlock a{
+  text-decoration: none;
+ }
+ .topnav{
+   background-color: black;
+   padding:0px;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+   margin-bottom: -22px;
+ }
+ body{
+   margin: 0;
+   background-color:rgb(169, 169, 169);
+   background-image: url("myImages/nike\ image\ 4.webp");
+   height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+ }
+  
+
+ 
+  .navBar{
+      
+      overflow: hidden;
+      margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+      
+  }
+  /*styles for all navbar links*/
+ .navBar a{
+  font-size: x-large;
+  color: aliceblue;
+  padding: 10px 10px;
+  float: left;
+  text-decoration: none;
+ } 
+ .navBar a:hover{
+    background-color: black;
+    color:white;
+ }
+ .companyName{
+    background-color: red;
+    overflow: hidden;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px 30px;
+ }
+ /*
+ .firstBlock{
+  padding: 100px 16px;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin-bottom: 70px;
+ }
+ .salesText{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  color:azure;
+  text-align: center;
+  text-decoration: none;
+ }*/
+ .brands{
+  margin-top: 150px;
+  margin-bottom: 90px;
+ }
+.brands a{
+  padding: 100px 99.4px;
+  text-decoration: none;
+  border-radius: 3%;
+  font-family: fantasy;
+  
+}
+.brands a:hover{
+  margin-top: 100px;
+  background-color: azure;
+  color: darkblue;
+  padding: 120px 100px;
+  transition: 0.5s;
+}
+.nike{
+  margin-top: 100px;
+  background-image: url("myImages/nike\ image\ 5.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 290px;
+  color:red;
+}
+.nike:hover{
+  margin-top: 50px;
+  background-image: none;
+  background-color:rgb(169, 169, 169);
+
+}
+.adidas
+{
+  background-image: url("myImages/adidas\ logo\ 3.gif");
+  background-size: cover;
+  background-size: 205px ;
+  height: 205px;
+  color:red;
+  
+}
+.adidas:hover{
+  background-image: none;
+  background-color:rgb(169, 169, 169);
+}
+.puma{
+  background-image: url("myImages/puma\ logo\ 1.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 400px 260px;
+  color:red;
+  
+}
+.puma:hover{
+  background-image: none;
+  background-color: black;
+}
+.converse{
+  background-image: url("myImages/converse\ logo\ 1.png");
+  background-size: cover;
+  background-attachment: fixed;
+  
+  background-size: 300px 179.5px;
+  color:red;
+}
+.converse:hover{
+  background-image: none;
+  background-color: black;
+}
+.lebrons{
+  background-image: url("myImages/lebrons\ logo.png");
+  background-size: cover;
+  background-size: 150px ;
+  background-attachment: fixed;
+  color: red;
+}
+.lebrons:hover{
+  background-image: none;
+  background-color: black;
+}
+.cobras{
+  background-image: url("myImages/cobra\ logo.jpg");
+  
+  background-size: 100px;
+  background-attachment: fixed;
+  color: red;
+}
+.cobras:hover{
+  background-image: none;
+  background-color: black;
+}
+.divisions{
+  margin-top: 100px;
+  margin-bottom: 50px;
+  
+}
+.divisions a{
+ text-decoration: none;
+ color:azure;
+ padding: 14px 16px;
+ 
+ border-radius: 2.5%;
+}
+.divisions a:hover{
+  background-color:red;
+}
+.images{
+  margin-bottom: 50px;
+}
+.images img{
+  margin-bottom: 50px;
+  height: 390px;
+  width: 340px;
+  float: left;
+  padding: 10px;
+  border-radius: 3%;
+  margin-bottom: 20px;
+} 
+
+.images img:hover{
+  height:410px;
+  width:350px;
+  
+  background-image: none;
+  background-color: aliceblue;
+  padding: 20 20;
+  transition: 1s;
+}
+
+.more a{
+  padding: 14px 16px;
+  background-color: aliceblue;
+  border-radius: 50%;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+
+.eyoo{
+  margin-top: 40px;
+}
